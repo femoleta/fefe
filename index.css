@@ -4,11 +4,13 @@ body{
     background-image: url(girasol.jpeg);
 }
 header{
-    color: rgb(86, 5, 5);
+    color: rgb(0, 0, 0);
     text-align: center;
     align-items: center;
+    font-size: 100;
 }
 section{
     color: black;
+font-size: 50;
 
 }
