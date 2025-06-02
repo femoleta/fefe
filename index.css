@@ -1,10 +1,12 @@
 body{
     color: rgb(210, 66, 141);
     background-color: rgb(248, 209, 243);
-    background-image: url(flor.png);
+    background-image: url(girasol.jpeg);
 }
 header{
     color: rgb(86, 5, 5);
+    text-align: center;
+    align-items: center;
 }
 section{
     color: black;
